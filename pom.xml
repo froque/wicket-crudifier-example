@@ -89,6 +89,25 @@
 			<version>${jetty.version}</version>
 			<scope>provided</scope>
 		</dependency>
+		
+		<dependency>
+		   <groupId>com.premiumminds</groupId>
+		   <artifactId>wicket-crudifier</artifactId>
+		   <version>2.0</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>2.3</version>
+		</dependency>
+	
+		<dependency>
+			<groupId>org.apache.wicket</groupId>
+			<artifactId>wicket-extensions</artifactId>
+			<version>6.19.0</version>
+		</dependency>
+	
 	</dependencies>
 	<build>
 		<resources>

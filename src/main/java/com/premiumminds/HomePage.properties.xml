@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <entry key="crudifierForm.legend">Pojo form legend</entry>
+    
+    <entry key="field2.label">label for field 2</entry>
+
+</properties>
